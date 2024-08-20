@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.column {
+  float: center;
+  width: 50%;
+}
+.row{
+    float: center;
+    width: 20%;
+}
